@@ -1,0 +1,4 @@
+Ja sitten kirjoitetaan tänne jotain sellaista tekstiä,
+jonka voimme myöhemmin lukea GitHubin puolella
+
+Tähän saa siis kirjoittaa ihan mitä päähän tulee.
